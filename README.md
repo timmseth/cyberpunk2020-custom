@@ -1536,12 +1536,24 @@ Used to find affiliations of Military NPC's.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### APPENDIX 1 - Cost Charts for the "Brotherhood" Advantage
 When creating a character with Brotherhood, you must first decide what type (Family, Blood, or Workgang) and to what group it is tied to. Once this is accomplished, you check the appropriate column (see below). Each type of Brotherhood has four different aspects, and each aspect has five levels, rated zero through four. Choose which level you wish to have in each aspect, and add them together (you must spend at least 1 point). This will give you an SP cost between 1 and 16 points.  
 Depending on the character's affiliation with the group, and the group's relative strength, this number can be fairly high or fairly low. The levels of the separate aspects should be noted, and can only be changed through role-play. No IP may be spent to increase these levels. If not properly maintained, some levels may drop over the course of a game. Increases should be determined by both the GM as well as the player, although the GM's word is final in any dispute.  
 Below I've listed the three different Brotherhoods and their different aspects.  
-
-
 
 
 
@@ -1581,9 +1593,6 @@ Below I've listed the three different Brotherhoods and their different aspects.
     Poor (some resources) 		2
     Comfortable (some surplus) 	3
     Wealthy (few needs) 	    4
-
-
-
 
 
 
@@ -1666,46 +1675,90 @@ Below I've listed the three different Brotherhoods and their different aspects.
     Wealthy (Gang owns a small habitat and several craft) 	4
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### APPENDIX 2 - Cost Charts for the "Contacts" Advantage
 There are four aspects that Contacts are rated by. When you buy a contact, you choose one of four levels in each aspect. When you've picked which stat levels you want, you add the point total together (with a minimum value of 1 point). This gives you the final Skill Point (SP) cost of the contact, which will be between 1 and 12 points.
+
+
+
+**Contact Skill Level**  
+
+    Skill Level					Cost
+    Unskilled    (05+1D10)		0
+    Average      (10+1D10)		1
+    Professional (15+1D10)		2
+    Expert       (20+1D10)		3
 
 Skill Level defines the contact's abilities at his chosen profession. An Unskilled contact has very little training and/or ability in his chosen field, and therefore adds 5 to a roll of 1D10 when using his primary skill(s). Average contacts are trained, but are far from experienced. They add 10 to a roll of 1D10 when using skills. Professional contacts are masters of their occupations, and could make a comfortable living doing whatever it is they do. They add 15 to a 1D10 roll when using a skill. Experts are the best of the best, and people with their levels of skill are rare. They add 20 to a 1D10 roll when using a skill.
 
 A contact's skill level may, at the GM's option, raise through game play. This, however, is one of the hardest elements to change about a contact, since it reflects his talent and skill.
 
+**Contact Reputation Level**  
+
+    Reputation	Cost
+    0-2			0
+    3-5			1
+    6-8			2
+    9-10		3
+
 Reputation measures a contact's status in relation to what he does or is. The higher a contact's reputation, the more pull he may have in his business. While it can be seen as a measure of rank, it can also be a measure of how popular, famous, or well-respected a contact is.
 
 A contact's reputation can change, just like a player character's can. This is usually accomplished by a raise in status, a promotion, or well-publicized activity involving the contact.
+
+
+**Contact Availability Level**  
+
+    Availability				Cost
+    Seldom    (Must Roll 9+)    0
+    Sometimes (Must Roll 7+)	1
+    Often     (Must Roll 5+)	2
+    Always    (Must Roll 3+)	3
 
 Availability measures how often a contact can be called on to give a PC a helping hand. When attempting to get in touch with a contact, or see if he's available, roll 1D10 and compare to the "Must Roll" number. If the number equals or exceeds the number, the contact will be ready to assist. If not, he's out, and may (or may not) call back, at his convenience.
 
 A contact may become more or less available depending on many aspects, including his schedule (busy contacts will be harder to reach), his willingness to deal with the PC (people who don't like you will tend to avoid talking to you), and constraints on his own private life (contacts who have been arrested or who are spending time in a hospital will be harder to get a hold of). Through normal game play, a GM can decide if a contact is more or less likely to be reached depending on the contact's life at the time. Contacts who have had good relationships, business or otherwise, with PCs will be more willing to talk or meet with them.
 
+**Contact Reliability Level**  
+
+    Reliability						Cost
+    Unreliable     (Betrays On 3+)	0
+    Reliable       (Betrays On 5+)	1
+    Very Reliable  (Betrays On 7+)	2
+    Super Reliable (Betrays On 9+)	3
+
 Reliability is a measure of your contact's loyalty to you. In these times of changing loyalties and convenient friendships, it's nice to know who your real chums are. Reliability represents the likelihood that he will sell out to the opposition, reveal secrets about you to others, rat on you, lie to you, or otherwise turn against you. If a contact ever gets harassed by the police or (say) the mafia in regards to you, has a chance to sell you out for personal gain, or if his loyalty is compromised in any other way, the GM should secretly roll 1D10 and compare it to his "Betrays On" rating. If the number rolled equals or exceeds the number, the contact will betray you.
 
 A contact's reliability may change, depending on his relationship with the PC. Sometimes, contacts are just untrustworthy bastards, and they won't go out of their way to protect the PC. A contact's reliability may fall in relation to a PC under several different circumstances, including overuse (the contact may feel used), and betrayal (such feelings may be caused by spreading the contact's name to your friends, or dropping his name to police under questioning). Reliability can be raised by bribing the contact, helping him out once in a while, or keeping in touch cordially.
 
-Skill Level	Cost
-Unskilled (5+1D10)	0
-Average (10+1D10)	1
-Professional (15+1D10)	2
-Expert (20+1D10)	3
-Reputation	
-0-2	0
-3-5	1
-6-8	2
-9-10	3
-Availability	
-Seldom (Must Roll 9+)	0
-Sometimes (Must Roll 7+)	1
-Often (Must Roll 5+)	2
-Always (Must Roll 3+)	3
-Reliability	
-Unreliable (Betrays On 3+)	0
-Reliable (Betrays On 5+)	1
-Very Reliable (Betrays On 7+)	2
-Super Reliable (Betrays On 9+)	3
-APPENDIX 3 - Cost Charts for the "Resources" Advantage
+
+
+
+
+
+
+
+
+
+
+
+### APPENDIX 3 - Cost Charts for the "Resources" Advantage
 When creating a character with Resources, you must first decide which corporation the character is employed with. The breakdown for Resources has four different aspects, and each aspect (except for "Position") has five levels, rated zero through four. "Position" has ten levels, rated zero through nine. Choose which level you wish to have in each aspect, and add them together (with a minimum of 1 point). This will give you an SP cost between 1 and 16 (or up to 21, if Position is not restricted).
 
 Depending on the character's affiliation with the company, and the company's relative strength, this number can be fairly high or fairly low. The levels of the separate aspects should be noted, and can only be changed through role-play. No IP may be spent to increase these levels. If not properly maintained, some levels may drop over the course of a game. Increases should be determined by both the GM as well as the player, although the GM's word is final in any dispute.
@@ -1718,36 +1771,47 @@ Corporation Size should give you some idea of how many employees the company has
 
 Financial Status indicates how well the company is doing insofar as income is concerned. A company that is bankrupt or struggling will probably be more likely to lay employees off than one that is stable. Stable companies are making enough of a profit to pay all their employees, with a little left over. Thriving and prosperous companies are more likely to open new offices, expand their current product lines, and hire new employees. Also, each rating lists a pay multiplier, which is multiplied by the corporate's salary to get his total take per year. For example, an executive working for a thriving company makes a little over $90,000 per year, whereas his counterpart in a bankrupt company will be pulling in a little over $20,000 per year.
 
-Resources
-Position (Your rank in the company)	Cost
-Wage Slave - You share a cubicle with someone, $20,000/year	0
-Assistant Manager - You have your own cubicle, $30,000/year	1
-Manager - You have a somewhat larger cubicle, $45,000/year	2
-Junior Executive - You share an office with someone, $55,000/year	3
-Executive - You have your own office, $65,000/year	4
-Department Head - You have a larger office, $75,000/year	5
-Division Head - You have a large corner office, $90,000/year	6
-Junior Vice President - You have a huge office, $120,000/year	7
-Vice President/Executive VP - You have a gigantic office, $150,000/year	8
-Chief Executive Officer - You have your own floor, $200,000+/year	9
-Respect (How your co-workers feel about you)	
-No one likes you.	0
-You have a few friends.	1
-Well respected by most.	2
-You have few enemies.	3
-Well liked by all.	4
-Corporation Size (The company's influence)	
-Local Mom & Pop Company (10+ employees)	0
-Small National Corporation/Large Local Company (500+ employees)	1
-Large National Corporation (10,000+ employees)	2
-Small International Corporation (100,000+ employees)	3
-Large International Corporation (500,000+ employees)	4
-Financial Status (How the company is performing)	
-Nearly Bankrupt (Pay Multiplier x 1/3)	0
-Struggling (Pay Multiplier x 1/2)	1
-Stable (Pay Multiplier x1)	2
-Thriving (Pay Multiplier x1.5)	3
-Prosperous (Pay Multiplier x2)	4
+#### Resources
+**Position (Your rank in the company)**  
+
+    Position 				  Description										    Cost
+    Wage Slave                You share a cubicle with someone, $20,000/year        0
+    Assistant Manager         You have your own cubicle, $30,000/year               1
+    Manager                   You have a somewhat larger cubicle, $45,000/year      2
+    Junior Executive          You share an office with someone, $55,000/year        3
+    Executive                 You have your own office, $65,000/year                4
+    Department Head           You have a larger office, $75,000/year                5
+    Division Head             You have a large corner office, $90,000/year          6
+    Junior Vice President     You have a huge office, $120,000/year                 7
+    VP/Executive VP           You have a gigantic office, $150,000/year             8
+    Chief Executive Officer   You have your own floor, $200,000+/year               9
+
+**Respect (How your co-workers feel about you)**  
+
+	Respect Level            Cost
+    No one likes you.	     0
+    You have a few friends.	 1
+    Well respected by most.	 2
+    You have few enemies.	 3
+    Well liked by all.	     4
+
+**Corporation Size (The company's influence)**  
+
+	Corporation Size           Description           Cost
+    Local Mom & Pop Company    (10+ employees)	     0
+    Small National/Large Local (500+ employees)	     1
+    Large National             (10,000+ employees)	 2
+    Small International        (100,000+ employees)	 3
+    Large International        (500,000+ employees)	 4
+
+**Financial Status (How the company is performing)**  
+
+	Corporation Status   Description              Cost
+    Nearly Bankrupt 	 (Pay Multiplier x 1/3)	  0
+    Struggling           (Pay Multiplier x 1/2)	  1
+    Stable               (Pay Multiplier x1)	  2
+    Thriving             (Pay Multiplier x1.5)	  3
+    Prosperous           (Pay Multiplier x2)	  4
 
 ###APPENDIX 4 - More Information Concerning Specific Injuries and Their Effects
 Injuries rolled that replicate certain disadvantages do not have to be "bought off " with IP in order to be cured. However, the injury can be "treated" during character creation, before play begins, but this may cost the character a quantity of money that the GM must determine based on the extent of the damage being repaired.
@@ -1818,27 +1882,80 @@ The character has received an impressive scar somewhere on his body. Although th
 #### APPENDIX 5 - Jailpath
 Each year in prison a character rolls 1D10 on the following table.
 
-1-3	Nothing happens this year
-4-7	Luck, good or bad
-8-0	Make a friend or enemy
+##### Jail Year Summary (Roll 1D10)
+
+    1-3	: Nothing happens this year
+    4-7	: Luck, good or bad
+    8-0	: Make a friend or enemy
 
 Roll 1D20 + Luck. If the result is 19+ then you had good luck, otherwise you took a hit.
-Good Luck (Roll 1D8)
-1 : You undergo braindance training. Get +2 to an INT or TECH based skill so you have a usefull skill in time for your release.
-2 : Go back to school. Gain +2 to Education / General Knowledge or a Specific Knowledge skill.
-3 : Hard physical training. Gain +2 to one of Endurance, Strength Feat, Athletics, Swimming, etc.
-4 : One year's hard labour. You work your ass off for a year breaking rock or working in one of the nasty physical jobs they shaft bad prisoners with. Gain +1 BOD or STR.
-5 : You pick up a new vice. Gain +2 to one of Streetwise, Pharmaceuticals, Pick Locks, Pick Pocket, Gambling, Resist Torture/Drugs or Intimidate.
-6 : Someone owes you a favor. He's on the outside now too.
-7 : You learned of a weapons or equipment cache from someone else on the inside (probably left-overs from a heist). You collected it as soon as you were let out. D10 x 200 eb value.
-8 : Early release, return to the normal Lifepath Table and roll again for this year.
 
-Bad Luck (Roll 1D8)
-1 : Horribly scarred either while being interrogated, punished, or in a fight or brawl inside the prison. -1 ATTR.
-2 : BrainBurned. You have been brainburned into not performing whatever it was that sent you to jail. Make a cool roll at -2 whenever you attempt to break this BrainBurn. If you fail you cannot break the conditioning.
-3 : Ingrained hatred of authority figures (make a cool roll at -2 to not freak when authority comes down on you or to attempt to deal with any authority figures in day to day activities such as security checks, etc).
-4 : Hospitalized (for an injury or for some mental problems) for 1D10 months.
-5 : Drug addiction. You got hooked on something they've been smuggling inside and you addiction has followed you to the outside world.
-6 : You were the subject of a tailored disease or chemical experiments without your knowledge or consent (-1 REF or BOD).
-7 : Serious injury, you lost a limb. If you can pay for it from your starting funds you can replace it with a cyberlimb, otherwise you had one grafted to replace it, not necessarily of the right skin-tone, etc.
-8 : Collect a debt. You managed to pick up a sizeable debt this year (getting cigarettes, for bribing guards, maintaining your habbit, etc). You still owe D10 x 300 eb to someone who can collect even on the outside.
+##### Good Luck (Roll 1D8)
+
+    1 : You undergo braindance training.
+    2 : Go back to school. 
+    3 : Hard physical training. 
+    4 : One year's hard labour. 
+    5 : You pick up a new vice. 
+    6 : Someone owes you a favor. 
+    7 : You learned of a weapons or equipment cache.
+    8 : Early release.
+
+**1 : You undergo braindance training.**  
+Get +2 to an INT or TECH based skill so you have a usefull skill in time for your release.  
+
+**2 : Go back to school.**  
+Gain +2 to Education / General Knowledge or a Specific Knowledge skill.  
+
+**3 : Hard physical training.**  
+Gain +2 to one of Endurance, Strength Feat, Athletics, Swimming, etc.  
+
+**4 : One year's hard labour.**  
+You work your ass off for a year breaking rock or working in one of the nasty physical jobs they shaft bad prisoners with. Gain +1 BOD or STR.  
+
+**5 : You pick up a new vice.**  
+Gain +2 to one of Streetwise, Pharmaceuticals, Pick Locks, Pick Pocket, Gambling, Resist Torture/Drugs or Intimidate.  
+
+**6 : Someone owes you a favor.**  
+He's on the outside now too.  
+
+**7 : You learned of a weapons or equipment cache.**  
+This information is from someone else on the inside (probably left-overs from a heist). You collected it as soon as you were let out. D10 x 200 eb value.  
+
+**8 : Early release.**  
+Return to the normal Lifepath Table and roll again for this year.  
+
+##### Bad Luck (Roll 1D8)
+
+    1 : Horribly scarred
+    2 : BrainBurned
+    3 : Ingrained hatred of authority figures
+    4 : Hospitalized
+    5 : Drug addiction
+    6 : Test subject
+    7 : Serious injury, you lost a limb
+    8 : Collect a debt
+
+**1 : Horribly scarred**  
+This occured either while being interrogated, punished, or in a fight or brawl inside the prison. -1 ATTR.
+
+**2 : BrainBurned**  
+You have been brainburned into not performing whatever it was that sent you to jail. Make a cool roll at -2 whenever you attempt to break this BrainBurn. If you fail you cannot break the conditioning.
+
+**3 : Ingrained hatred of authority figures**  
+Just what it sounds like. Make a cool roll at -2 to not freak when authority comes down on you or to attempt to deal with any authority figures in day to day activities such as security checks, etc.
+
+**4 : Hospitalized**  
+Hospitalized for an injury or for some mental problems for 1D10 months.
+
+**5 : Drug addiction.**  
+You got hooked on something they've been smuggling inside and you addiction has followed you to the outside world.
+
+**6 : Test subject**  
+You were the subject of a tailored disease or chemical experiments without your knowledge or consent (-1 REF or BOD).
+
+**7 : Serious injury, you lost a limb.**  
+If you can pay for it from your starting funds you can replace it with a cyberlimb, otherwise you had one grafted to replace it, not necessarily of the right skin-tone, etc.
+
+**8 : Collect a debt.**  
+You managed to pick up a sizeable debt this year (getting cigarettes, for bribing guards, maintaining your habbit, etc). You still owe D10 x 300 eb to someone who can collect even on the outside.
