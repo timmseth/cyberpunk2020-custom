@@ -18,7 +18,9 @@ A character's lifepath can be generated in any way the player or GM sees fit. I 
 ### SKILLS
 In CP2020, characters receive 40 SP's to be distributed among 10 Career skills and the total of their INT+REF to be spent on Pick-Up Skills.
 
-In this modified system, characters still receive the base 40 SP's, but they do not have to spend these skills on a "Career Package", since there are no Roles. Points can be spent on any skill desired. Pick-Up Skill Points are granted depending on age (in lieu of INT+REF=Pick-Up SP's), and since older characters should be far more experienced than younger ones, the number of Pick-Up SP's increases with age. Pick-Up SP's can also be spent on any skill.
+In this modified system, characters still receive the base 40 SP's, but they do not have to spend these skills on a "Career Package", since there are no Roles. Points can be spent on any skill desired. 
+
+Pick-Up Skill Points are granted depending on age (in lieu of INT+REF=Pick-Up SP's), and since older characters should be far more experienced than younger ones, the number of Pick-Up SP's increases with age. Pick-Up SP's can also be spent on any skill.
 
 **Here's how it works:**
 
@@ -52,6 +54,103 @@ Characters older than 28 are reaching the twilight of their days. They are by no
 As for special abilities, there are none. I wanted to steer clear of a class-based system, and since special abilities are based on roles, most of them have been removed from this version of Cyberpunk. These include Authority, Charismatic Leadership, Combat Sense, Credibility, Family, Jury Rig, Resources and Streetdeal, as well as the lesser ones which have been included in other supplements.
 
 However, I have kept two special abilities : Interface and Medtech. There are no other skills to replace them. The closest thing to Medtech is First Aid, and it's just not potent enough. I've placed it under the Tech skills... anyone can buy it by putting points into it. Interface was also an important skill, since nothing else covers that aspect of the genre. Anyone can jack into the 'Net with the proper training. Interface merely represents the skill that one wields there. As with Medtech, Interface can be bought by anyone willing to spend the points. It's been placed under the Intelligence skills, by the way. Some special abilities are available to any character in the form of certain advantages which can be bought during character creation. Note that these advantages aren't as powerful as the Special Abilities they represent.
+
+#### ATTR SKILLS
+- Personal Grooming
+- Wardrobe & Style
+
+#### BODY SKILLS
+- Endurance
+- Strength Feat
+- Swimming
+
+#### COOL/WILL SKILLS
+- Interrogation
+- Oratory
+- Resist Torture/Drugs
+- Streetwise
+
+#### EMPATHY SKILLS
+- Human Perception
+- Interview
+- Leadership
+- Leadership
+- Social
+- Persuasion & Fast Talk
+- Perform
+
+#### INT SKILLS
+- Accounting
+- Anthropology
+- Awareness/Notice
+- Biology
+- Botany
+- Chemistry
+- Composition
+- Dianose Illness
+- Education & General Knowledge
+- Expert
+- Gamble
+- Geology
+- Hide/Evade
+- History
+- Interface
+- Know Languages (Choose One)
+- Library Search
+- Mathmatic
+- Med Tech
+- Physics
+- Programming
+- Shadow/Track
+- Stock Market
+- System Knowledge
+- Teaching
+- Teaching
+- Zoology
+
+#### REF SKILLS
+- Archery
+- Athletic
+- Brawling
+- Dance
+- Dodge & Escape
+- Driving
+- Fencing
+- Handgun
+- Heavy Weapons
+- Martial Arts (Choose One)
+- Melee
+- Motorcycle
+- Operate Heavy Machinery
+- Pilot: Gyro
+- Pilot: Fixed Wing
+- Pilot: Dirigible
+- Pilot: Vect. Thrust Vehicle
+- Rifle
+- Stealth
+- Submachinegun
+
+#### TECH SKILLS
+- Aero Tech
+- AV Tech
+- Basic Tech
+- Cryotank Operation
+- Cyberdeck Design
+- Cyber Tech
+- Demolitions
+- Disguise
+- Electronics
+- Elect. Security
+- First Aid
+- Forgery
+- Gyro Tech
+- Paint or Draw
+- Photo & Film
+- Pharmaceuticals
+- Pick Lock
+- Pick Pocket
+- Play Instrument
+- Weaponsmith
 
 ### MONEY & EQUIPMENT
 How do you figure out how much money a character starts off with now, since there are no special abilities to gauge the price of his services ? Take the character's INT and LUCK scores and add them together. Divide by 2, and multiply the result by 1000. This is the amount of euro the character has in savings, to buy weapons and cyberware with, etc. It generally gives those players who tend to have characters with low scores in INT and LUCK something to think about. For example, you have a character with an INT of 7 and a Luck of 4. His total starting moneys will equal 5500 euro (7+4/2=5.5×1000=5500).
