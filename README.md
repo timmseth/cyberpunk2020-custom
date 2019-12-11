@@ -908,8 +908,8 @@ A character with this disadvantage likes to be in charge and will attempt to fil
 **Description:**  
 The cost for a drug addiction is based on the legality of the substance and the total cost per dose. Something that costs a lot, or is highly illegal, is probably going to be harder to get and the risks involved in keeping your habit are greatly increased. Likewise, something that you can buy at the corner market for five dollars is going to be easier to purchase. When determining the cost of the addiction, cross-index the legality of the substance with the cost of the substance on the following chart :
 
-     Cost				Legal/Common	Prescription	Type C	Type B	Type A
-     1-150 euro			-2				-2				-4		-5		-6	
+     Cost			Legal/Common	Prescription	Type C	Type B	Type A
+     1-150 euro		-2				-2				-4		-5		-6	
      151-300 euro		-3				-3				-5		-6		-7
      301-450 euro		-4				-4				-6		-7		-8
      451-600 euro		-5				-5				-7		-8		-9
