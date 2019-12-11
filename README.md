@@ -2112,10 +2112,10 @@ The core feel of the game is maintained between CP2020 and the Red Jumpstart Kit
 
 #### Combat Basics
 
-#####1. Beginning of Turn   
+##### 1. Beginning of Turn   
 Players may declare Haste (+3 to initiative, -3 to actions) to try to go first.
 
-#####2. Initiative   
+##### 2. Initiative   
 **Each Player rolls initiative:**  
 1d10 + Reflexes 
 
@@ -2131,7 +2131,7 @@ Players may declare Haste (+3 to initiative, -3 to actions) to try to go first.
 + Turns proceed from highest lowest. Players may delay action until later in the turn.  
 + Combat Awareness is +1-3 if using Ocelot’s system, +1-5 if using Fuzion.
 
-#####3. Actions   
+##### 3. Actions   
 A character may perform 1 action at no penalty.  
 Each additional action incurs a penalty of -3 to any roll.  
 
@@ -2237,33 +2237,49 @@ Attacker’s Reflex + skill + 1d10vs. Defenders Reflex + skill + 1d10(Martial Ar
 
 **Escape** free from hold.  
 
-Body Type Damage Modifiers
 
-2   -2
-3-4 -1
-5-7 +0
-8-9 +1
-10  +2
-4. Roll Hit Location and Take Damage
+
+**Body Type Damage Modifiers:**  
+
+| Body Type    |  Mod |
+| ------------ |:----:|
+|  2           |  -2  |
+|  3-4         |  -1  |
+|  5-7         |  +0  |
+|  8-9         |  +1  |
+|  10          |  +2  |
+
+##### 4. Roll Hit Location and Take Damage
+
 
 If shot or hit, roll location and take damage, subtract any armor or cover from that location. Subtract your BTM (Body Type Modifier) from damage taken, doubling any resulting damage to the head.
+ 
+**Body Type Modifiers:**  
 
-Body Type Modifiers
+| Body Type    |  Mod |
+| ------------ |:----:|
+|  2           |  -0  |
+|  3-4         |  -1  |
+|  5-7         |  -2  |
+|  8-9         |  -3  |
+|  10          |  -4  |
 
-2   -0
-3-4 -1
-5-7 -2
-8-9 -3
-10  -4
-Make a Stun Save by rolling under the character’s Body Type on a ten sided die subtracting any modifiers from your current wound level. If failed, the character is stunned and can take no action until the player rolls a successful Stun Save. Limb Loss occurs if a limb takes more than 8 points of damage from a single attack. The character must make an immediate Death Save at Mortal 0. Head hits that inflict 8 points of undoubled damage kill automatically.
+**Make a Stun Save**  
+By rolling under the character’s Body Type on a ten sided die subtracting any modifiers from your current wound level. If failed, the character is stunned and can take no action until the player rolls a successful Stun Save. Limb Loss occurs if a limb takes more than 8 points of damage from a single attack. The character must make an immediate Death Save at Mortal 0. Head hits that inflict 8 points of undoubled damage kill automatically.
 
-At Serious Wound Level the character is at -2 to his REF.
+**At Serious Wound Level**  
+The character is at -2 to his REF.
 
-At Critical Wound Level the character’s REF, INT, and COOL are reduced to half rounded up.
+**At Critical Wound Level**  
+The character’s REF, INT, and COOL are reduced to half rounded up.
 
-At Mortal Wound Level the character’s REF, INT, and COOL are reduced to one-third rounded up and must make a Death Save.
+**At Mortal Wound Level**  
+The character’s REF, INT, and COOL are reduced to one-third rounded up and must make a Death Save.
 
-Make a Death Save, if the character has been mortally wounded, by rolling under the character’s Body Type on a ten sided die subtracting the level of Mortality each round until they are stabilized with medical attention. Medical attention is defined as a successful First Aid skill check vs. the current damage taken. If the roll is successful, the character is stabilized and healing can commence. If the roll is failed, the character must make additional Death Saves every minute at an additional -1 penalty per minute.
+**Make a Death Save**  
+If the character has been mortally wounded, by rolling under the character’s Body Type on a ten sided die subtracting the level of Mortality each round until they are stabilized with medical attention. Medical attention is defined as a successful First Aid skill check vs. the current damage taken. If the roll is successful, the character is stabilized and healing can commence. If the roll is failed, the character must make additional Death Saves every minute at an additional -1 penalty per minute.
+
+--------
 
 1. Beginning of Turn
 
@@ -2337,7 +2353,7 @@ The character’s REF, INT, and COOL are reduced to one-third rounded up and mus
 **Make a Death Save**  
 If the character has been mortally wounded, by rolling under the character’s Body Type on a ten sided die subtracting the level of Mortality each round until they are stabilized with medical attention. Medical attention is defined as a successful First Aid skill check vs. the current damage taken. If the roll is successful, the character is stabilized and healing can commence. If the roll is failed, the character must make additional Death Saves every minute at an additional -1 penalty per minute.
  
-SUMMARY:
+#### SUMMARY:
  
  1. Beginning of Turn
 
