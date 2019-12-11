@@ -1658,13 +1658,13 @@ Below I've listed the three different Brotherhoods and their different aspects.
 
 #### Family (Nomad Specific)
 **How Much Authority Do You Have?**  
-
-    Rank Level	Cost
-    Soldier		0
-    Sergeant	1
-    Lieutenant	2
-    Captain		3
-    Leader		4
+| Rank Level    | Cost  |
+| ------------- |:-----:|
+| Soldier       |   0   |
+| Sergeant      |   0   |
+| Lieutenant    |   0   |
+| Captain       |   0   |
+| Leader        |   0   |
 
 **How many people will back you up?**
 
