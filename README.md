@@ -1670,9 +1670,9 @@ Below I've listed the three different Brotherhoods and their different aspects.
 
     Favor Level				Cost
     No one likes you		0
-    A few friends in-clan	  1
+    A few friends in-clan	      1
     Well respected			2
-    A few enemies in-clan	  3
+    A few enemies in-clan	      3
     Well liked by all		4
 
 **How many members in your clan?**
