@@ -1649,6 +1649,7 @@ Used to find affiliations of Military NPC's.
 
 
 
+
 ### APPENDIX 1 - Cost Charts for the "Brotherhood" Advantage
 When creating a character with Brotherhood, you must first decide what type (Family, Blood, or Workgang) and to what group it is tied to. Once this is accomplished, you check the appropriate column (see below). Each type of Brotherhood has four different aspects, and each aspect has five levels, rated zero through four. Choose which level you wish to have in each aspect, and add them together (you must spend at least 1 point). This will give you an SP cost between 1 and 16 points.  
 Depending on the character's affiliation with the group, and the group's relative strength, this number can be fairly high or fairly low. The levels of the separate aspects should be noted, and can only be changed through role-play. No IP may be spent to increase these levels. If not properly maintained, some levels may drop over the course of a game. Increases should be determined by both the GM as well as the player, although the GM's word is final in any dispute.  
@@ -1779,17 +1780,43 @@ Below I've listed the three different Brotherhoods and their different aspects.
 | Comfortable        | Gang has a couple different space craft     |   3   |
 | Wealthy            | Gang owns a small habitat and several craft |   4   |
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### APPENDIX 2 - Cost Charts for the "Contacts" Advantage
 There are four aspects that Contacts are rated by. When you buy a contact, you choose one of four levels in each aspect. When you've picked which stat levels you want, you add the point total together (with a minimum value of 1 point). This gives you the final Skill Point (SP) cost of the contact, which will be between 1 and 12 points.
 
 
 **Contact Skill Level**  
 
-    Skill Level					Cost
-    Unskilled    (05+1D10)		0
-    Average      (10+1D10)		1
-    Professional (15+1D10)		2
-    Expert       (20+1D10)		3
+| Skill Level     | Description  | Cost  |
+| --------------- | ------------ |:-----:|
+| Unskilled       | (05+1D10)    |   0   |
+| Average         | (10+1D10)    |   1   |
+| Professional    | (15+1D10)    |   2   |
+| Expert          | (20+1D10)    |   3   |
 
 Skill Level defines the contact's abilities at his chosen profession. An Unskilled contact has very little training and/or ability in his chosen field, and therefore adds 5 to a roll of 1D10 when using his primary skill(s). Average contacts are trained, but are far from experienced. They add 10 to a roll of 1D10 when using skills. Professional contacts are masters of their occupations, and could make a comfortable living doing whatever it is they do. They add 15 to a 1D10 roll when using a skill. Experts are the best of the best, and people with their levels of skill are rare. They add 20 to a 1D10 roll when using a skill.
 
@@ -1797,11 +1824,12 @@ A contact's skill level may, at the GM's option, raise through game play. This, 
 
 **Contact Reputation Level**  
 
-    Reputation	Cost
-    0-2			0
-    3-5			1
-    6-8			2
-    9-10		3
+| Reputation | Cost  |
+| ---------- |:-----:|
+| 0-2        |   0   |
+| 3-5        |   1   |
+| 6-8        |   2   |
+| 9-10       |   3   |
 
 Reputation measures a contact's status in relation to what he does or is. The higher a contact's reputation, the more pull he may have in his business. While it can be seen as a measure of rank, it can also be a measure of how popular, famous, or well-respected a contact is.
 
@@ -1810,11 +1838,12 @@ A contact's reputation can change, just like a player character's can. This is u
 
 **Contact Availability Level**  
 
-    Availability				Cost
-    Seldom    (Must Roll 9+)    0
-    Sometimes (Must Roll 7+)	1
-    Often     (Must Roll 5+)	2
-    Always    (Must Roll 3+)	3
+| Availability | Description  | Cost  |
+| ------------ | -------------|:-----:|
+| Seldom       | Must Roll 9+ | 0     |
+| Sometimes    | Must Roll 7+ | 1     |
+| Often        | Must Roll 5+ | 2     |
+| Always       | Must Roll 3+ | 3     |
 
 Availability measures how often a contact can be called on to give a PC a helping hand. When attempting to get in touch with a contact, or see if he's available, roll 1D10 and compare to the "Must Roll" number. If the number equals or exceeds the number, the contact will be ready to assist. If not, he's out, and may (or may not) call back, at his convenience.
 
@@ -1822,15 +1851,28 @@ A contact may become more or less available depending on many aspects, including
 
 **Contact Reliability Level**  
 
-    Reliability						Cost
-    Unreliable     (Betrays On 3+)	0
-    Reliable       (Betrays On 5+)	1
-    Very Reliable  (Betrays On 7+)	2
-    Super Reliable (Betrays On 9+)	3
+| Reliability    | Description   | Cost  |
+| -------------- | ------------- |:-----:|
+| Unreliable     | Betrays On 3+ | 0     |
+| Reliable       | Betrays On 5+ | 1     |
+| Very Reliable  | Betrays On 7+ | 2     |
+| Super Reliable | Betrays On 9+ | 3     |
 
 Reliability is a measure of your contact's loyalty to you. In these times of changing loyalties and convenient friendships, it's nice to know who your real chums are. Reliability represents the likelihood that he will sell out to the opposition, reveal secrets about you to others, rat on you, lie to you, or otherwise turn against you. If a contact ever gets harassed by the police or (say) the mafia in regards to you, has a chance to sell you out for personal gain, or if his loyalty is compromised in any other way, the GM should secretly roll 1D10 and compare it to his "Betrays On" rating. If the number rolled equals or exceeds the number, the contact will betray you.
 
 A contact's reliability may change, depending on his relationship with the PC. Sometimes, contacts are just untrustworthy bastards, and they won't go out of their way to protect the PC. A contact's reliability may fall in relation to a PC under several different circumstances, including overuse (the contact may feel used), and betrayal (such feelings may be caused by spreading the contact's name to your friends, or dropping his name to police under questioning). Reliability can be raised by bribing the contact, helping him out once in a while, or keeping in touch cordially.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
