@@ -2311,18 +2311,18 @@ Attacker’s Reflex + skill + 1d10 vs. Defenders Reflex + skill + 1d10
 (Martial Arts, Fencing, Melee, Athletics)
 **Attack - Weapon**  
 
-**Attack with weapon
-**Strike 1d6/2 +Damage Modifier
-**Kick 1d6 +Damage Modifier
-**Block/Parry Absorb Damage with weapon
-**Dodge +2 to defense
-**Disarm knock weapon out of hand
-**Throw opponent knocked down, 1D6+2, Stun -2
-**Hold opponent immobilized until escape is rolled
-**Escape free from hold
-**Choke after hold, 1d6 +Damage Modifier per turn
-**Sweep/Trip +2 next attack, opponent -2
-**Grapple precursor to choke, throw, or hold
+**Attack with weapon  
+**Strike 1d6/2 +Damage Modifier  
+**Kick 1d6 +Damage Modifier  
+**Block/Parry Absorb Damage with weapon  
+**Dodge +2 to defense  
+**Disarm knock weapon out of hand  
+**Throw opponent knocked down, 1D6+2, Stun -2  
+**Hold opponent immobilized until escape is rolled  
+**Escape free from hold  
+**Choke after hold, 1d6 +Damage Modifier per turn  
+**Sweep/Trip +2 next attack, opponent -2  
+**Grapple precursor to choke, throw, or hold  
 
 4. Roll Hit Location and Take Damage
 
