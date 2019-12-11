@@ -1662,39 +1662,40 @@ Below I've listed the three different Brotherhoods and their different aspects.
 | Rank Level    | Cost  |
 | ------------- |:-----:|
 | Soldier       |   0   |
-| Sergeant      |   0   |
-| Lieutenant    |   0   |
-| Captain       |   0   |
-| Leader        |   0   |
+| Sergeant      |   1   |
+| Lieutenant    |   2   |
+| Captain       |   3   |
+| Leader        |   4   |
 
 **How many people will back you up?**
 
-    Favor Level				Cost
-    No one likes you		0
-    A few friends in-clan	      1
-    Well respected			2
-    A few enemies in-clan	      3
-    Well liked by all		4
+| Favor Level            | Cost  |
+| ---------------------- |:-----:|
+| No one likes you       |   0   |
+| A few friends in-clan  |   1   |
+| Well respected         |   2   |
+| A few enemies in-clan  |   3   |
+| Well liked by all      |   4   |
 
 **How many members in your clan?**
 
-    Clan Size			    Cost
-    010-100  members		0
-    101-200  members		1
-    201-300  members		2
-    301-400  members		3
-    401-500+ members		4
+| Clan Size              | Cost  |
+| ---------------------- |:-----:|
+| 010-100  members       |   0   |
+| 101-200  members       |   1   |
+| 201-300  members       |   2   |
+| 301-400  members       |   3   |
+| 401-500+  members      |   4   |
 
 **How wealthy is your clan?**
 
-    Clan Resources       		Cost
-    Destitute (no resources) 	0
-    Struggling (few resources) 	1
-    Poor (some resources) 		2
-    Comfortable (some surplus) 	3
-    Wealthy (few needs) 	       4
-
-
+| Clan Resources             | Cost  |
+| -------------------------- |:-----:|
+| Destitute (no resources)   |   0   |
+| Struggling (few resources) |   1   |
+| Poor (some resources)      |   2   |
+| Comfortable (some surplus) |   3   |
+| Wealthy (few needs)        |   4   |
 
 #### Blood (Gang Specific)
 **What is your rank in the gang?**
