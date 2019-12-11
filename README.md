@@ -1681,7 +1681,7 @@ Below I've listed the three different Brotherhoods and their different aspects.
 
 | Clan Size              | Cost  |
 | ---------------------- |:-----:|
-| 010-100  members       |   0   |
+| 10-100  members        |   0   |
 | 101-200  members       |   1   |
 | 201-300  members       |   2   |
 | 301-400  members       |   3   |
