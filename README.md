@@ -1700,41 +1700,43 @@ Below I've listed the three different Brotherhoods and their different aspects.
 #### Blood (Gang Specific)
 **What is your rank in the gang?**
 
-    Rank		Cost
-    Greenie		0
-    Punk	    1
-    Homeboy	    2
-    Bloodboy	3
-    Gang lord	4
-    
+| Gang Rank | Cost  |
+| --------- |:-----:|
+| Greenie   |   0   |
+| Punk      |   1   |
+| Homeboy   |   2   |
+| Bloodboy  |   3   |
+| Gang lord |   4   |
+
 **What is your reputation among members?**
 
-    Reputation						Cost
-    You're everybody's bitch	    0
-    Few friends in-gang				1
-    Few enemies in-gang				3
-    You're everybody's ace kool	    4
-    
+| Reputation Level         | Cost  |
+| ------------------------ |:-----:|
+| You're everybody's bitch |   0   |
+| A few friends in-gang    |   1   |
+| Well respected           |   2   |
+| A few enemies in-gang    |   3   |
+| You're everybody's ace   |   4   |
+
 **What is the size of the gang?**
 
-	Gang Size					Cost
-	Tiny (1-5 Members)			0
-	Small (6-10 Members)		1
-	Mid-Sized (11-25 Members)	2
-	Large (26-50 Members)		3
-	Huge (51-100 Members)		4
+| Gang Size                 | Cost  |
+| ------------------------- |:-----:|
+| Tiny (1-5 Members)        |   0   |
+| Small (6-10 Members)      |   1   |
+| Mid-Sized (11-25 Members) |   2   |
+| Large (26-50 Members)     |   3   |
+| Huge (51-100 Members)     |   4   |
 
 **What is the territory of the gang?**
 
-    Gang Turf			Cost	
-    No Turf				0
-    Couple of Buildings	1
-    One Block			2
-    Two or Three Blocks	3
-    Four to Six Blocks	4
-
-
-
+| Gang Turf     | Cost  |
+| ------------- |:-----:|
+| No Turf       |   0   |
+| Few Buildings |   1   |
+| One Block     |   2   |
+| Three Blocks  |   3   |
+| Six Blocks    |   4   |
 
 #### Workgang (Workganger Specific)
 **What is your rank in the Workgang?**
