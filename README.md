@@ -1741,64 +1741,46 @@ Below I've listed the three different Brotherhoods and their different aspects.
 #### Workgang (Workganger Specific)
 **What is your rank in the Workgang?**
 
-    Rank			Cost
-    Clan Member		0
-    Sergeant	    1
-    Lieutenant	    2
-    Captain			3
-    Tribal Elder	4
-    
+| Workgang Rank | Cost  |
+| ------------- |:-----:|
+| Clan Member   |   0   |
+| Sergeant      |   1   |
+| Lieutenant    |   2   |
+| Captain       |   3   |
+| Tribal Elder  |   4   |
+
 **What is your reputation among the clan?**
 
-    Favor Level				Cost
-    No one likes you		0
-    A few friends in-clan	1
-    Well respected			2
-    A few enemies in-clan	3
-    Well liked by all		4
+| Favor Level            | Cost  |
+| ---------------------- |:-----:|
+| No one likes you       |   0   |
+| A few friends in-clan  |   1   |
+| Well respected         |   2   |
+| A few enemies in-clan  |   3   |
+| Well liked by all      |   4   |
 
-    
 **What is your workgang clan size?**
 
-	Workgang Size				Cost
-	Tiny (1-5 Members)			0
-	Small (6-10 Members)		1
-	Mid-Sized (11-25 Members)	2
-	Large (26-50 Members)		3
-	Huge (51-100 Members)		4
+| Workgang Size  | Members | Cost  |
+| -------------- |:-------:|:-----:|
+| Tiny           | 1-5     |   0   |
+| Small          | 6-10    |   1   |
+| Mid-Sized      | 11-25   |   2   |
+| Large          | 26-50   |   3   |
+| Huge           | 51-100  |   4   |
+   
+**What are your workgang resources?**
 
-    
-**What are your workgang clan resources?**
-
-    Clan Resources       									Cost
-    Destitute (A few skin suits, not much else.) 			0
-    Struggling (Gang owns a flitter or work module.) 		1
-    Poor (Gang possesses an old OTV.) 						2
-    Comfortable (Gang has a couple different space craft) 	3
-    Wealthy (Gang owns a small habitat and several craft) 	4
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Workgang Resources | Description                                 | Cost  |
+| ------------------ | ------------------------------------------- |:-----:|
+| Destitute          | A few skin suits, not much else.            |   0   |
+| Struggling         | Gang owns a flitter or work module.         |   1   |
+| Poor               | Gang possesses an old OTV.                  |   2   |
+| Comfortable        | Gang has a couple different space craft     |   3   |
+| Wealthy            | Gang owns a small habitat and several craft |   4   |
 
 ### APPENDIX 2 - Cost Charts for the "Contacts" Advantage
 There are four aspects that Contacts are rated by. When you buy a contact, you choose one of four levels in each aspect. When you've picked which stat levels you want, you add the point total together (with a minimum value of 1 point). This gives you the final Skill Point (SP) cost of the contact, which will be between 1 and 12 points.
-
 
 
 **Contact Skill Level**  
