@@ -2116,86 +2116,127 @@ The core feel of the game is maintained between CP2020 and the Red Jumpstart Kit
 Players may declare Haste (+3 to initiative, -3 to actions) to try to go first.
 
 #####2. Initiative   
-Each Player roll 1d10+Reflexes Plus or minus modifiers.
-+ Haste +3
-+ Combat Awareness +1-10 (+1-3 if using Ocelot’s system, +1-5 if using Fuzion)
-+ Kerenzikov Booster +1 -3
-+ Sandevestian Booster +3
+**Each Player rolls initiative:**  
+1d10 + Reflexes 
 
-Turn proceeds in order from highest roll to lowest. Players may delay action until later in the turn.
+**Plus or minus modifiers:**  
+
+| Modifier             |  +/-  |
+| -------------------- |:-----:|
+| Haste                | +3    |
+| Combat Awareness     | +1-10 |
+| Kerenzikov Booster   | +1-3  |
+| Sandevestian Booster | +3    |
+
++ Turns proceed from highest lowest. Players may delay action until later in the turn.  
++ Combat Awareness is +1-3 if using Ocelot’s system, +1-5 if using Fuzion.
 
 #####3. Actions   
-A character may perform 1 action at no penalty. Each additional action incurs a penalty of -3 to any roll.
+A character may perform 1 action at no penalty.  
+Each additional action incurs a penalty of -3 to any roll.  
 
 Actions include:  
-+ Move up to their MA x 3, or duck for cover, or lie prone, etc.
-+ Take Aim +1 per round aimed up to 3 rounds. 
-+ + A character must be aiming to take advantage of bonuses from a Targeting Scope, Laser Sight, or Telescopic Sight.
-+ Reload, Change, or Unjam a weapon.
-+ Enter or exit a vehicle
-+ Repair a piece of equipment or machinery
-+ Stabilize a mortally wounded character
+**Move**  
+Move up to their MA x 3, duck for cover, lie prone, etc.  
+**Take Aim**  
++1 per round aimed up to 3 rounds. A character must be aiming to take advantage of bonuses from a Targeting Scope, Laser Sight, or Telescopic Sight.  
+**Reload/Change/Unjam** a weapon.  
+**Enter/Exit** a vehicle.  
+**Repair** a piece of equipment or machinery.  
+**Stabilize** a mortally wounded character.  
 
-Perform a non-combat task
-Ability+Skill+1d10 vs. Difficulty of Task Task Diffiulties
-Easy    10
-Average 15
-Difficult   20
-Very Difficult  25
-Impossible  30
-Ability+Skill+1d10 vs. Ability+Skill+1d10
+**Perform a non-combat task**  
 
-If a 1 is rolled, the attempt fails, consult the fumble tables
-1-4 No fumble
-5-7 Miserable Failure
-8-0 Catastrophic Failure
-If a 0 is rolled, roll again and add to the total
+**Contest**  
+Ability + Skill + 1d10 vs. Ability + Skill + 1d10
 
+**Non-Contests**  
+Ability+Skill+1d10 vs. Difficulty of Task 
+
+| Difficulty     | DC |
+| -------------- |:--:|
+| Easy           | 10 |
+| Average        | 15 |
+| Difficult      | 20 |
+| Very Difficult | 25 |
+| Impossible     | 30 |
+
+**If a 1 is rolled, the attempt fails, consult the fumble tables:**  
+	
+**Task Fumbles**  
+
+| Fumble               |  1d10  |
+| -------------------- |:------:|
+| End Your Turn        |  1--4  |
+| Miserable Failure    |  5--7  |
+| Catastrophic Failure |  8--0  |
+
+**Attack - Fire**  
 Fire a weapon up to it’s ROF, 3 round burst (+3), or full auto burst (+1 every 10 round fired, for each point of success, 1 round hits).
-Reflexes + Weapon Skill + 1d10 – ModifiersDifficulty based on range of weapon:
-Range   Difficulty  Handgun SMG Shotgun Rifle
-Point Blank =   10  0-1m    0-1m    0-1m    0-1m
-Close (1/4) =   15  1-12m   1-35m   1-12m   1-100m
-Medium (1/2) =  20  12-25m  35-75m  12-25m  100-200m
-Long (full) =   25  25-50m  75-150m 25-50m  400m
-Extreme (2x) =  30  100m    300m    100m    800m
-    +/- modifiers
-Target immobile +4
-Moving Target   -3
-Snapshot    -3
-Specific Location   -4
-Blinded -3
-Turning around  -2
-Using Two Weapons   -3 each
-Firing while running    -3
-Large Target    +4
-Small Target    -4
-Tiny Target -6
-3 round burst   +3
-Full Auto 10 rounds +1
-If a 1 is rolled, consult Fumble Table
 
-1-4 No fumble, you just screw up
-5   You Drop your weapon
-6   Weapon hits something harmless
-7   Weapon jams for 1 turn
-8   Wound yourself, roll location and damage
-9-10    Wound a member of your party
-If a 0 is rolled, roll again and add to the total.
+**Reflexes + Weapon Skill + 1d10 – Modifiers**  
 
-Hand-to-Hand Attack
-Attacker’s Reflex + skill + 1d10vs. Defenders Reflex + skill + 1d10(Martial Arts, Fencing, Melee, Athletics, Brawling)Attack with weapon
-Strike 1d6/2 +Damage Modifier
-Kick 1d6 +Damage Modifier
-Block/Parry Absorb Damage with weapon
-Dodge +2 to defense
-Disarm knock weapon out of hand
-Throw opponent knocked down, 1D6+2, Stun -2
-Hold opponent immobilized until escape is rolled
-Escape free from hold
-Choke after hold, 1d6 +Damage Modifier per turn
-Sweep/Trip +2 next attack, opponent -2
-Grapple precurser to choke, throw, or hold
+**Weapon Range DC Table**  
+
+| Range        | DC | Handgun  | SMG     | Shotgun | Rifle    |
+| ------------ |:--:| -------- | ------- | ------- | -------- |
+| Point Blank  | 10 | 0-1m     | 0-1m	 | 0-1m	   | 0-1m     |
+| Close (1/4)  | 15 | 1-12m    | 1-35m	 | 1-12m   | 1-100m   |
+| Medium (1/2) | 20 | 12-25m   | 35-75m	 | 12-25m  | 100-200m | 
+| Long (full)  | 25 | 25-50m   | 75-150m | 25-50m  | 400m     |
+| Extreme (2x) | 30 | 100m     | 300m	 | 100m	   | 800m     |
+
+**Shot Modifiers**  
+
+| Situation           | +/- Modifier |
+| ------------------- |:------------:|
+| Target immobile     |      +4      |
+| Moving Target       |      -3      |
+| Snapshot            |      -3      |
+| Specific Location   |      -4      |
+| Blinded             |      -3      |
+| Turning around      |      -2      |
+| Using Two Weapons   |   -3 each    |
+| Run 'N' Gun         |      -3      |
+| Large Target        |      +4      |
+| Small Target        |      -4      |
+| Tiny Target         |      -6      |
+| 3 round burst       |      +3      |
+| Full-Auto 10 rounds |      +1      |
+
+**If a 1 is rolled, consult Fumble Table:**
+	
+**Shot Fumbles**  
+
+| Fumble              |  1d10  |
+| ------------------- |:------:|
+| End Your Turn       |  1--4  |
+| Drop Your Weapon    |   05   |
+| Shoot Something     |   06   |
+| Weapon Jams         |   07   |
+| Damage Ally         |   08   |
+| Damage Yourself     |   09   |
+| Random Injury Table |   10   |
+
+
+**Attack - Hand-to-Hand**  
+Attacker’s Reflex + skill + 1d10vs. Defenders Reflex + skill + 1d10(Martial Arts, Fencing, Melee, Athletics, Brawling).  
+
+**Strike** 1d6/2 +Damage Modifier.  
+**Kick** 1d6 +Damage Modifier.  
+**Sweep/Trip** +2 next attack, opponent -2.  
+
+**Block/Parry** Absorb Damage with weapon.  
+**Dodge** +2 to defense.  
+**Disarm** knock weapon out of hand.  
+
+**Throw** opponent knocked down, 1D6+2, Stun -2.  
+**Grapple** precurser to choke, throw, or hold.  
+**Hold** opponent immobilized until escape is rolled.  
+**Choke** after hold, 1d6 +Damage Modifier per turn.  
+
+**Escape** free from hold.  
+
 Body Type Damage Modifiers
 
 2   -2
@@ -2225,6 +2266,80 @@ At Mortal Wound Level the character’s REF, INT, and COOL are reduced to one-th
 Make a Death Save, if the character has been mortally wounded, by rolling under the character’s Body Type on a ten sided die subtracting the level of Mortality each round until they are stabilized with medical attention. Medical attention is defined as a successful First Aid skill check vs. the current damage taken. If the roll is successful, the character is stabilized and healing can commence. If the roll is failed, the character must make additional Death Saves every minute at an additional -1 penalty per minute.
 
 1. Beginning of Turn
+
+Haste (+3 Initiative, -3 to actions)
+
+2. Initiative
+
+Reflexes+1d10 (highest to lowest)
+
+Haste +3
+Combat Awareness +1-3
+Kerenzikov Booster +1-3
+Sandevestian Booster +3
+
+3. Actions (-3 to each additional action)
+
+**Move** up to their MA x 3, or duck for cover, or lie prone, etc.  
+**Take Aim** +1 per round aimed up to 3 rounds.  
+**Reload, Change, or Unjam** a weapon.  
+**Enter or exit** a vehicle  
+**Repair**  
+**Stabilize** a mortally wounded character  
+**Perform a non-combat task**  
+**Attack - Fire**  
+Up to ROF, 3 round burst +3, or full auto burst +1 every 10 fired, for each point of success, 1 hits).
+Boosted Reflexes + Weapon Skill + 1d10
+**Attack - Hand-to-Hand**  
+Attacker’s Reflex + skill + 1d10 vs. Defenders Reflex + skill + 1d10
+(Martial Arts, Fencing, Melee, Athletics)
+**Attack - Weapon**  
+
+**Attack with weapon
+**Strike 1d6/2 +Damage Modifier
+**Kick 1d6 +Damage Modifier
+**Block/Parry Absorb Damage with weapon
+**Dodge +2 to defense
+**Disarm knock weapon out of hand
+**Throw opponent knocked down, 1D6+2, Stun -2
+**Hold opponent immobilized until escape is rolled
+**Escape free from hold
+**Choke after hold, 1d6 +Damage Modifier per turn
+**Sweep/Trip +2 next attack, opponent -2
+**Grapple precursor to choke, throw, or hold
+
+4. Roll Hit Location and Take Damage
+
+If shot or hit, roll location and take damage, subtract any armor or cover from that location. Subtract your BTM (Body Type Modifier) from damage taken, doubling any resulting damage to the head.
+ 
+**Body Type Modifiers:**  
+
+| Body Type    |  Mod |
+| ------------ |:----:|
+|  2           |  -0  |
+|  3-4         |  -1  |
+|  5-7         |  -2  |
+|  8-9         |  -3  |
+|  10          |  -4  |
+
+**Make a Stun**  
+Save by rolling under the character’s Body Type on a ten sided die subtracting any modifiers from your current wound level. If failed, the character is stunned and can take no action until the player rolls a successful Stun Save. Limb Loss occurs if a limb takes more than 8 points of damage from a single attack. The character must make an immediate Death Save at Mortal 0. Head hits that inflict 8 points of undoubled damage kill automatically.
+
+**At Serious Wound Level**  
+The character is at -2 to his REF.
+
+**At Critical Wound Level**  
+The character’s REF, INT, and COOL are reduced to half rounded up.
+
+**At Mortal Wound Level**  
+The character’s REF, INT, and COOL are reduced to one-third rounded up and must make a Death Save.
+
+**Make a Death Save**  
+If the character has been mortally wounded, by rolling under the character’s Body Type on a ten sided die subtracting the level of Mortality each round until they are stabilized with medical attention. Medical attention is defined as a successful First Aid skill check vs. the current damage taken. If the roll is successful, the character is stabilized and healing can commence. If the roll is failed, the character must make additional Death Saves every minute at an additional -1 penalty per minute.
+ 
+SUMMARY:
+ 
+ 1. Beginning of Turn
 
 Haste (+3 Initiative, -3 to actions)
 
@@ -2282,3 +2397,5 @@ Critical (REF, INT, COOL reduced to half)
 Mortal (REF, INT, COOL reduced to one-third)
 
 Make a Death Save (roll under BT minus Mortality Level)
+
+ 
