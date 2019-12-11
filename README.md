@@ -2281,20 +2281,29 @@ If the character has been mortally wounded, by rolling under the character’s B
 
 --------
 
-1. Beginning of Turn
+##### 1. Beginning of Turn  
 
-Haste (+3 Initiative, -3 to actions)
+Players may declare Haste (+3 to initiative, -3 to actions) to try to go first.
 
-2. Initiative
+##### 2. Initiative  
 
-Reflexes+1d10 (highest to lowest)
+**Each Player rolls initiative:**  
+1d10 + Reflexes 
 
-Haste +3
-Combat Awareness +1-3
-Kerenzikov Booster +1-3
-Sandevestian Booster +3
+**Plus or minus modifiers:**  
 
-3. Actions (-3 to each additional action)
+| Modifier             |  +/-  |
+| -------------------- |:-----:|
+| Haste                | +3    |
+| Combat Awareness     | +1-10 |
+| Kerenzikov Booster   | +1-3  |
+| Sandevestian Booster | +3    |
+
++ Turns proceed from highest lowest. Players may delay action until later in the turn.  
++ Combat Awareness is +1-3 if using Ocelot’s system, +1-5 if using Fuzion.
+
+
+##### 3. Actions (-3 to each additional action)
 
 **Move** up to their MA x 3, or duck for cover, or lie prone, etc.  
 **Take Aim** +1 per round aimed up to 3 rounds.  
@@ -2309,22 +2318,25 @@ Boosted Reflexes + Weapon Skill + 1d10
 **Attack - Hand-to-Hand**  
 Attacker’s Reflex + skill + 1d10 vs. Defenders Reflex + skill + 1d10
 (Martial Arts, Fencing, Melee, Athletics)
-**Attack - Weapon**  
 
-**Attack with weapon  
-**Strike 1d6/2 +Damage Modifier  
-**Kick 1d6 +Damage Modifier  
-**Block/Parry Absorb Damage with weapon  
-**Dodge +2 to defense  
-**Disarm knock weapon out of hand  
-**Throw opponent knocked down, 1D6+2, Stun -2  
-**Hold opponent immobilized until escape is rolled  
-**Escape free from hold  
-**Choke after hold, 1d6 +Damage Modifier per turn  
-**Sweep/Trip +2 next attack, opponent -2  
-**Grapple precursor to choke, throw, or hold  
+**Attack** with weapon  
+**Strike** 1d6/2 +Damage Modifier.  
+**Kick** 1d6 +Damage Modifier.  
+**Sweep/Trip** +2 next attack, opponent -2.  
+  
+**Block/Parry** Absorb Damage with weapon.  
+**Dodge** +2 to defense.  
+**Disarm** knock weapon out of hand.  
+  
+**Throw** opponent knocked down, 1D6+2, Stun -2.  
+**Grapple** precurser to choke, throw, or hold.  
+**Hold** opponent immobilized until escape is rolled.  
+**Choke** after hold, 1d6 +Damage Modifier per turn.  
+  
+**Escape** free from hold.  
 
-4. Roll Hit Location and Take Damage
+
+##### 4. Roll Hit Location and Take Damage
 
 If shot or hit, roll location and take damage, subtract any armor or cover from that location. Subtract your BTM (Body Type Modifier) from damage taken, doubling any resulting damage to the head.
  
