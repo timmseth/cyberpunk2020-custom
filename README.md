@@ -2059,7 +2059,7 @@ If you can pay for it from your starting funds you can replace it with a cyberli
 **8 : Collect a debt.**  
 You managed to pick up a sizeable debt this year (getting cigarettes, for bribing guards, maintaining your habbit, etc). You still owe D10 x 300 eb to someone who can collect even on the outside.
 
-##### CYBERPUNK RED INTRO
+#### CYBERPUNK RED INTRO
 The Jumpstart Kit is a starter box with streamlined rules
 Just wanted to state up front that the full edition won't be published till late this year/early next year. So far the only Cyberpunk Red release has been the Cyberpunk Red Jumpstart Kit which is has been described as a streamlined version of the upcoming Cyberpunk Red rules to teach the core system and be quick and easy to run. It has a short intro adventure and a few screamsheets for further adventures. It uses pre-gen characters where the only customization is choosing/rolling a stat array and rolling up a custom lifepath. That said there are a few high level changes to highlight.
 
@@ -2082,31 +2082,32 @@ Cyber-psychosis and empathy cost for cyberware does not feature in the Jumpstart
 Overall thoughts
 The core feel of the game is maintained between CP2020 and the Red Jumpstart Kit. Weapons put out a good amount of damage, death saves are hard, and the core idea of fighting smart seems to still be the best approach to win a fight. The world is unfair and everyone is still out to make a buck. The screamsheets and intro adventure all feature the type of plots and characters that are directly from the CP2020 corebook and supplements. Times have changed, but the nature of the Cyberpunk world remains the same.
 
-##### Combat Basics
+#### Combat Basics
 
-**1. Beginning of Turn**  
+#####1. Beginning of Turn   
 Players may declare Haste (+3 to initiative, -3 to actions) to try to go first.
 
-**2. Initiative**  
+#####2. Initiative   
 Each Player roll 1d10+Reflexes Plus or minus modifiers.
-Haste +3
-Combat Awareness +1-10 (+1-3 if using Ocelot’s system, +1-5 if using Fuzion)
-Kerenzikov Booster +1 -3
-Sandevestian Booster +3
++ Haste +3
++ Combat Awareness +1-10 (+1-3 if using Ocelot’s system, +1-5 if using Fuzion)
++ Kerenzikov Booster +1 -3
++ Sandevestian Booster +3
 
 Turn proceeds in order from highest roll to lowest. Players may delay action until later in the turn.
 
-**3. Actions**  
+#####3. Actions   
 A character may perform 1 action at no penalty. Each additional action incurs a penalty of -3 to any roll.
 
-Actions include:
+Actions include:  
++ Move up to their MA x 3, or duck for cover, or lie prone, etc.
++ Take Aim +1 per round aimed up to 3 rounds. 
++ + A character must be aiming to take advantage of bonuses from a Targeting Scope, Laser Sight, or Telescopic Sight.
++ Reload, Change, or Unjam a weapon.
++ Enter or exit a vehicle
++ Repair a piece of equipment or machinery
++ Stabilize a mortally wounded character
 
-Move up to their MA x 3, or duck for cover, or lie prone, etc.
-Take Aim +1 per round aimed up to 3 rounds. A character must be aiming to take advantage of bonuses from a Targeting Scope, Laser Sight, or Telescopic Sight.
-Reload, Change, or Unjam a weapon.
-Enter or exit a vehicle
-Repair a piece of equipment or machinery
-Stabilize a mortally wounded character
 Perform a non-combat task
 Ability+Skill+1d10 vs. Difficulty of Task Task Diffiulties
 Easy    10
@@ -2115,8 +2116,8 @@ Difficult   20
 Very Difficult  25
 Impossible  30
 Ability+Skill+1d10 vs. Ability+Skill+1d10
-If a 1 is rolled, the attempt fails, consult the fumble tables
 
+If a 1 is rolled, the attempt fails, consult the fumble tables
 1-4 No fumble
 5-7 Miserable Failure
 8-0 Catastrophic Failure
