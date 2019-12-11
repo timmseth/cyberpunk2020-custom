@@ -9,6 +9,9 @@ Any part of this system can be adapted for GMs and players who wish to keep usin
 
 This edition (version 3.31) has been updated slightly. This is reflected in a more standardized cost system for advantages and disadvantages, as well as several new advads and disads. Many of the old advantages and disadvantages have been reworked and/or clarified. Some of the lifepath details have been altered slightly, and I've made a few additions. Overall, things work just like they used to. There's just a little bit more to work with.
 
+[GO TO THE WIKI](https://github.com/timmseth/cyberpunk2020-custom/wiki)
+
+
 ### ATTRIBUTES
 Attributes are generated in any of the methods listed in the CP2020 rulebook. In my case, I roll 6D10+30, and distribute the points. No attribute may be greater than 10 or lower than 2. Alternately, for a grittier, more down-to-earth feel, give players 54 points to allocate to the nine attributes. They'll hate you for it, trust me.
 
@@ -24,7 +27,7 @@ Pick-Up Skill Points are granted depending on age (in lieu of INT+REF=Pick-Up SP
 
 **Here's how it works:**
 
-    Age				SP's Per Year	TSPs  
+    Age				SP's Per Year			TSPs  
     12				5		 		-15 
     13				5		 		-10
     14				4		 		-5
