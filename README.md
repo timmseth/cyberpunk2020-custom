@@ -2058,3 +2058,198 @@ If you can pay for it from your starting funds you can replace it with a cyberli
 
 **8 : Collect a debt.**  
 You managed to pick up a sizeable debt this year (getting cigarettes, for bribing guards, maintaining your habbit, etc). You still owe D10 x 300 eb to someone who can collect even on the outside.
+
+##### CYBERPUNK RED INTRO
+The Jumpstart Kit is a starter box with streamlined rules
+Just wanted to state up front that the full edition won't be published till late this year/early next year. So far the only Cyberpunk Red release has been the Cyberpunk Red Jumpstart Kit which is has been described as a streamlined version of the upcoming Cyberpunk Red rules to teach the core system and be quick and easy to run. It has a short intro adventure and a few screamsheets for further adventures. It uses pre-gen characters where the only customization is choosing/rolling a stat array and rolling up a custom lifepath. That said there are a few high level changes to highlight.
+
+What's the same
+The core resolution mechanic of Stat + Skill + 1d10 vs DC / opposed roll is still the core resolution mechanic for the system. Just about every complex, aggressive, or challenging/risky action a PC takes will involve a roll or multiple rolls, just like CP2020.
+
+Roles will still have signature skills/abilities. For example the Netrunner pre-gen is specifically highlighted in the mechanics book (there is also a lore & adventure book) for the Interface skill and that skill being only available to netrunners.
+
+Combat rolls, damage, and cover and suppression mechanics are similar to CP2020. Armor and wounds function similarly.
+
+What's Different
+Lifepath as presented in the Jumpstart Kit does not include any statistical bonuses or other mechanical outcomes. It is purely for character background and story hooks to inform both the GM and the PC's roleplaying.
+
+While the core aspects of the combat system are the same or very similar to Friday Night Firefight in CP2020, the streamlining has removed or limited choices. You aren't rolling a hit location every time, hits are body head. The only special fire modes for automatic weapons are Burst and suppression fire.
+
+Netrunning requires either direct physical or Local area network access and netrunning overall is a much faster, simpler affair. Story lore in the world book explains the world events that disabled a truly global network reverting things to local, disjointed networks. Netrunners take actions in real time with the party and get a certain amount of net actions to take per turn based on their interface level. Networks are set up as tower structures and you move from one level to the next facing the hazards, programs, ice, and interface options on each level as you go.
+
+Cyber-psychosis and empathy cost for cyberware does not feature in the Jumpstart Kit. As the tools given are limited for runninng a long campaign with character's upgrading themselves this seems to be simply to focus on running the game than it no longer being an issue in the world of Cyberpunk. I fully expect this to be a part of the full rulebook.
+
+Overall thoughts
+The core feel of the game is maintained between CP2020 and the Red Jumpstart Kit. Weapons put out a good amount of damage, death saves are hard, and the core idea of fighting smart seems to still be the best approach to win a fight. The world is unfair and everyone is still out to make a buck. The screamsheets and intro adventure all feature the type of plots and characters that are directly from the CP2020 corebook and supplements. Times have changed, but the nature of the Cyberpunk world remains the same.
+
+##### Combat Basics
+
+**1. Beginning of Turn**  
+Players may declare Haste (+3 to initiative, -3 to actions) to try to go first.
+
+**2. Initiative**  
+Each Player roll 1d10+Reflexes Plus or minus modifiers.
+Haste +3
+Combat Awareness +1-10 (+1-3 if using Ocelot’s system, +1-5 if using Fuzion)
+Kerenzikov Booster +1 -3
+Sandevestian Booster +3
+
+Turn proceeds in order from highest roll to lowest. Players may delay action until later in the turn.
+
+**3. Actions**  
+A character may perform 1 action at no penalty. Each additional action incurs a penalty of -3 to any roll.
+
+Actions include:
+
+Move up to their MA x 3, or duck for cover, or lie prone, etc.
+Take Aim +1 per round aimed up to 3 rounds. A character must be aiming to take advantage of bonuses from a Targeting Scope, Laser Sight, or Telescopic Sight.
+Reload, Change, or Unjam a weapon.
+Enter or exit a vehicle
+Repair a piece of equipment or machinery
+Stabilize a mortally wounded character
+Perform a non-combat task
+Ability+Skill+1d10 vs. Difficulty of Task Task Diffiulties
+Easy    10
+Average 15
+Difficult   20
+Very Difficult  25
+Impossible  30
+Ability+Skill+1d10 vs. Ability+Skill+1d10
+If a 1 is rolled, the attempt fails, consult the fumble tables
+
+1-4 No fumble
+5-7 Miserable Failure
+8-0 Catastrophic Failure
+If a 0 is rolled, roll again and add to the total
+
+Fire a weapon up to it’s ROF, 3 round burst (+3), or full auto burst (+1 every 10 round fired, for each point of success, 1 round hits).
+Reflexes + Weapon Skill + 1d10 – ModifiersDifficulty based on range of weapon:
+Range   Difficulty  Handgun SMG Shotgun Rifle
+Point Blank =   10  0-1m    0-1m    0-1m    0-1m
+Close (1/4) =   15  1-12m   1-35m   1-12m   1-100m
+Medium (1/2) =  20  12-25m  35-75m  12-25m  100-200m
+Long (full) =   25  25-50m  75-150m 25-50m  400m
+Extreme (2x) =  30  100m    300m    100m    800m
+    +/- modifiers
+Target immobile +4
+Moving Target   -3
+Snapshot    -3
+Specific Location   -4
+Blinded -3
+Turning around  -2
+Using Two Weapons   -3 each
+Firing while running    -3
+Large Target    +4
+Small Target    -4
+Tiny Target -6
+3 round burst   +3
+Full Auto 10 rounds +1
+If a 1 is rolled, consult Fumble Table
+
+1-4 No fumble, you just screw up
+5   You Drop your weapon
+6   Weapon hits something harmless
+7   Weapon jams for 1 turn
+8   Wound yourself, roll location and damage
+9-10    Wound a member of your party
+If a 0 is rolled, roll again and add to the total.
+
+Hand-to-Hand Attack
+Attacker’s Reflex + skill + 1d10vs. Defenders Reflex + skill + 1d10(Martial Arts, Fencing, Melee, Athletics, Brawling)Attack with weapon
+Strike 1d6/2 +Damage Modifier
+Kick 1d6 +Damage Modifier
+Block/Parry Absorb Damage with weapon
+Dodge +2 to defense
+Disarm knock weapon out of hand
+Throw opponent knocked down, 1D6+2, Stun -2
+Hold opponent immobilized until escape is rolled
+Escape free from hold
+Choke after hold, 1d6 +Damage Modifier per turn
+Sweep/Trip +2 next attack, opponent -2
+Grapple precurser to choke, throw, or hold
+Body Type Damage Modifiers
+
+2   -2
+3-4 -1
+5-7 +0
+8-9 +1
+10  +2
+4. Roll Hit Location and Take Damage
+
+If shot or hit, roll location and take damage, subtract any armor or cover from that location. Subtract your BTM (Body Type Modifier) from damage taken, doubling any resulting damage to the head.
+
+Body Type Modifiers
+
+2   -0
+3-4 -1
+5-7 -2
+8-9 -3
+10  -4
+Make a Stun Save by rolling under the character’s Body Type on a ten sided die subtracting any modifiers from your current wound level. If failed, the character is stunned and can take no action until the player rolls a successful Stun Save. Limb Loss occurs if a limb takes more than 8 points of damage from a single attack. The character must make an immediate Death Save at Mortal 0. Head hits that inflict 8 points of undoubled damage kill automatically.
+
+At Serious Wound Level the character is at -2 to his REF.
+
+At Critical Wound Level the character’s REF, INT, and COOL are reduced to half rounded up.
+
+At Mortal Wound Level the character’s REF, INT, and COOL are reduced to one-third rounded up and must make a Death Save.
+
+Make a Death Save, if the character has been mortally wounded, by rolling under the character’s Body Type on a ten sided die subtracting the level of Mortality each round until they are stabilized with medical attention. Medical attention is defined as a successful First Aid skill check vs. the current damage taken. If the roll is successful, the character is stabilized and healing can commence. If the roll is failed, the character must make additional Death Saves every minute at an additional -1 penalty per minute.
+
+1. Beginning of Turn
+
+Haste (+3 Initiative, -3 to actions)
+
+2. Initiative
+
+Reflexes+1d10 (highest to lowest)
+
+Haste +3
+Combat Awareness +1-3
+Kerenzikov Booster +1-3
+Sandevestian Booster +3
+
+3. Actions (-3 to each additional action)
+
+Move up to their MA x 3, or duck for cover, or lie prone, etc.
+Take Aim +1 per round aimed up to 3 rounds.
+Reload, Change, or Unjam a weapon.
+Enter or exit a vehicle
+Repair
+Stabilize a mortally wounded character
+Perform a non-combat task
+Fire (up to ROF, 3 round burst +3, or full auto burst +1 every 10 fired, for each point of success, 1 hits).
+Boosted Reflexes + Weapon Skill + 1d10
+Hand-to-Hand Attack
+Attacker’s Reflex + skill + 1d10 vs. Defenders Reflex + skill + 1d10
+(Martial Arts, Fencing, Melee, Athletics)
+Attack with weapon
+Strike 1d6/2 +Damage Modifier
+Kick 1d6 +Damage Modifier
+Block/Parry Absorb Damage with weapon
+Dodge +2 to defense
+Disarm knock weapon out of hand
+Throw opponent knocked down, 1D6+2, Stun -2
+Hold opponent immobilized until escape is rolled
+Escape free from hold
+Choke after hold, 1d6 +Damage Modifier per turn
+Sweep/Trip +2 next attack, opponent -2
+Grapple precursor to choke, throw, or hold
+4. Roll Hit Location and Take Damage
+
+Roll location
+
+Subtract any armor or cover
+
+Subtract your BTM
+
+Take damage (double for head, limbs gone after 8 points of damage)
+
+Make a Stun Save (roll under BT minus Wound Level)
+
+Serious (-2 REF)
+
+Critical (REF, INT, COOL reduced to half)
+
+Mortal (REF, INT, COOL reduced to one-third)
+
+Make a Death Save (roll under BT minus Mortality Level)
