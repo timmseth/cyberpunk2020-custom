@@ -1658,6 +1658,7 @@ Below I've listed the three different Brotherhoods and their different aspects.
 
 #### Family (Nomad Specific)
 **How Much Authority Do You Have?**  
+
 | Rank Level    | Cost  |
 | ------------- |:-----:|
 | Soldier       |   0   |
